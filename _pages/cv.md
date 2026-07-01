@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+<i class="fas fa-file-pdf" aria-hidden="true"></i> You can download my resume [here](../files/CV_Laporte_phd.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Operations Research, 2026 (ongoing)
+* Master’s degree “Master Parisien de Recherche Opérationnelle”, Conservatoire National des Arts et Métiers, 2024-2025
+* Engineering degree, Ecole Nationale des Ponts et Chaussées, 2021-2025
+* Scientific preparatory classes, Lycée Pierre De Fermat, 2019-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2025: Research internship
+  * [OCP Group](https://www.ocpgroup.ma/fr), [Mohammed VI university](https://um6p.ma) and A-Lab, Morocco
+  * Research internship
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2024: Research and development internship
+  * [Exail](https://www.exail-technologies.com/fr/), Toulon
+  * Duties included: Development of a shortest path algorithm for Underwater Autonomous Vehicles (UAV)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023: Supply chain and logistics internship
+  * Louis Vuitton, Paris
+  * Duties included: Improvement of logistic and supply chain management
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Proficient in multiple programming language (Python, Julia, C++, LateX, java, R, HTML, javascript)
+* Bilingual in english, can understand Italian, learning japanese and amharic
